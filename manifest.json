@@ -31,6 +31,79 @@
       ],
       "ast": [
         "aggregate/ast/2a4affca5ad534fc0826b4c556bdb2b851e4c886/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/2a4affca5ad534fc0826b4c556bdb2b851e4c886.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "darling",
+          "ecosystem": "CARGO",
+          "version": "0.24",
+          "githubOrg": "TedDriggs",
+          "githubRepo": "darling",
+          "githubUrl": "https://github.com/TedDriggs/darling",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "indoc",
+          "ecosystem": "CARGO",
+          "version": "2",
+          "githubOrg": "dtolnay",
+          "githubRepo": "indoc",
+          "githubUrl": "https://github.com/dtolnay/indoc",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "proc-macro2",
+          "ecosystem": "CARGO",
+          "version": "1.0.91",
+          "githubOrg": "dtolnay",
+          "githubRepo": "proc-macro2",
+          "githubCommit": "5046761b9689109142a02c71736284013673f0bd",
+          "githubTag": "1.0.91",
+          "githubUrl": "https://github.com/dtolnay/proc-macro2",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "quote",
+          "ecosystem": "CARGO",
+          "version": "1.0.35",
+          "githubOrg": "dtolnay",
+          "githubRepo": "quote",
+          "githubCommit": "b01743f24cb5b19f96a3eac6bce0e7aee10f6199",
+          "githubTag": "1.0.35",
+          "githubUrl": "https://github.com/dtolnay/quote",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "syn",
+          "ecosystem": "CARGO",
+          "version": "3.0",
+          "githubOrg": "dtolnay",
+          "githubRepo": "syn",
+          "githubUrl": "https://github.com/dtolnay/syn",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "pretty_assertions",
+          "ecosystem": "CARGO",
+          "version": "1.4",
+          "githubOrg": "rust-pretty-assertions",
+          "githubRepo": "rust-pretty-assertions",
+          "githubUrl": "https://github.com/rust-pretty-assertions/rust-pretty-assertions",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "darling_core",
+          "ecosystem": "CARGO",
+          "version": "0.24.1",
+          "githubOrg": "TedDriggs",
+          "githubRepo": "darling",
+          "githubCommit": "6b68cbe74cf5a7684c406f09558afc854022f824",
+          "githubTag": "v0.24.1",
+          "githubUrl": "https://github.com/TedDriggs/darling",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/darling_core-0.24.1/src/error/mod.rs"
+        }
       ]
     }
   ],
