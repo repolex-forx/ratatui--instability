@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "ratatui",
+  "repo": "instability",
+  "versions": [
+    {
+      "commit": "2a4affca5ad534fc0826b4c556bdb2b851e4c886",
+      "parsed_at": "2026-11-22T12:51:51.471895+00:00",
+      "tag": "instability-v0.3.13",
+      "filetree": "filetree/2a4affca5ad534fc0826b4c556bdb2b851e4c886.nq.gz",
+      "blobs": [
+        "blob/4fffb2f89cbd8f2169ce9914bd16bd43785bb368.nq.gz",
+        "blob/f7533f421a7dacbe30728971e1a609ef4aa8f724.nq.gz",
+        "blob/4d4f0eecc2d1dc11bb4b0174ee8737caf93e00fc.nq.gz",
+        "blob/90a420d1a3e104dd4d0f42c2a22a61765f9ba6ba.nq.gz",
+        "blob/cfc1e1c011957b6116b0be3e5ed5e4a5dd5c1068.nq.gz",
+        "blob/2196ed6a881a1b7277a40b5913e5f4f014b4d9f3.nq.gz",
+        "blob/1a2ea2e6a012c5d9b64ce67b42ddbd38e1f22e33.nq.gz",
+        "blob/ecc8077bf2f35328d243471381108ec6290d8c00.nq.gz",
+        "blob/4e4ab47b03885550b18862bbcd75378a58612e64.nq.gz",
+        "blob/c2537448046428da79127776757d229eae3924d6.nq.gz",
+        "blob/de607731085719d3558437bd5c030107c2f11b45.nq.gz",
+        "blob/220d5846c99103a4e5ac6ba034367828893184ad.nq.gz",
+        "blob/bbddfc6b2cf8043e64742d757b57dcccf43c0740.nq.gz",
+        "blob/b1b88eddb06850eb17890b3b5c82e601a538bcfd.nq.gz",
+        "blob/1de9877b55102fd6965982f5b76ac07f5f26a67f.nq.gz",
+        "blob/a6cc03c3bbbed5f2b4105e278a9cdf542dc3d419.nq.gz",
+        "blob/6144b3975ed05f968aa8792100a08d519b1ac8f5.nq.gz",
+        "blob/77af2e01d54b02646a004b6ae077b0ba093a579e.nq.gz",
+        "blob/95ab69579d391a2d6fd468bce2f4a33aeb5ca9f8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
